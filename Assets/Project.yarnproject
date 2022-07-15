@@ -1,0 +1,5 @@
+﻿title: Program
+---
+/// Checks to see if player agrees with a statement
+<<declare $doesAgree = false>>
+===
